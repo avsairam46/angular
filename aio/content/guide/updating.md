@@ -31,6 +31,8 @@ To review a complete list of changes, organized by version, see the [Angular cha
 {@a checking-version-app}
 ## Checking your version of Angular
 
+
+
 To check your app's version of Angular: From within your project directory, use the `ng version` command. 
  
 
